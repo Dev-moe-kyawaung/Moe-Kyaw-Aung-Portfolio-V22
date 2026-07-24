@@ -1,0 +1,30 @@
+# Humans.txt - Credits
+# https://dev-moe-kyawaung.github.io/humans.txt
+
+/* TEAM */
+Developer: Moe Kyaw Aung
+Contact: moekyawaung@programmer.net
+Location: Tachileik, Myanmar / Bangkok, Thailand
+Role: Senior Mobile App Developer
+
+/* SITE */
+Language: English, Burmese
+Platforms: Android, iOS, Flutter, React Native
+Backend: Firebase, REST APIs
+Hosting: GitHub Pages, Cloudflare
+CDN: Cloudinary, Cloudflare
+Fonts: Google Fonts
+Icons: Font Awesome
+Animation: AOS
+
+/* LAST UPDATED */
+Date: 2026-01-15
+Version: 22.0.0
+
+/* THANKS */
+https://michalsnik.github.io/aos/
+https://fontawesome.com
+https://fonts.google.com
+https://cloudinary.com
+https://cloudflare.com
+https://pages.github.com
