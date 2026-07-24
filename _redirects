@@ -1,0 +1,17 @@
+# Cloudflare Redirects
+# https://dev-moe-kyawaung.github.io/_redirects
+
+# Redirect root to main page
+/ /index.html 200
+
+# Redirect old URLs
+/old-portfolio / 301
+/v21 / 301
+/v20 / 301
+
+# Redirect social
+/github https://github.com/Dev-moe-kyawaung 301
+/linkedin https://www.linkedin.com/in/moe-kyaw-aung-2653093a1 301
+/telegram https://t.me/moekyawaung 301
+/gravatar https://gravatar.com/moekyawaung13721 301
+
