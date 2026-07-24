@@ -1,0 +1,129 @@
+# V22 MOBILE APP SENIOR DEVELOPER - Robots.txt
+# https://dev-moe-kyawaung.github.io/robots.txt
+
+# Main crawlers
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /test/
+Disallow: /dev/
+
+# Sitemaps
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap.xml
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap-google.xml
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap-microsoft.xml
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap-cloudflare.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 5
+
+User-agent: MSNBot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+# Microsoft
+User-agent: msnbot
+Allow: /
+Crawl-delay: 5
+
+User-agent: msnbot-media
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+Crawl-delay: 10
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: YandexImages
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 10
+
+# Sogou
+User-agent: Sogou
+Allow: /
+
+# Social media bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Cloudflare
+User-agent: Cloudflare-AMP
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+# Generated: 2026-01-15
+# Contact: moekyawaung@programmer.net
+# Version: 22.0.0
