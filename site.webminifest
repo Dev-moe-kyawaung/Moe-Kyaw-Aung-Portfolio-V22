@@ -1,0 +1,28 @@
+{
+    "name": "Moe Kyaw Aung - Senior Mobile App Developer",
+    "short_name": "MKA Mobile",
+    "description": "Senior Mobile App Developer Portfolio - Android, iOS, Flutter, React Native",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0A0F",
+    "theme_color": "#6C63FF",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "https://res.cloudinary.com/dye5qpwii/image/upload/w_192/v1778527878/IMG_20260430_053105_uef0yr.png",
+            "sizes": "192x192",
+            "type": "image/webp",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://res.cloudinary.com/dye5qpwii/image/upload/w_512/v1778527878/IMG_20260430_053105_uef0yr.png",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["portfolio", "development", "mobile"],
+    "lang": "en",
+    "dir": "ltr"
+}
+
